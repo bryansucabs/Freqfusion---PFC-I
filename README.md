@@ -16,6 +16,6 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 pip install mmcv-full==1.5.3
 pip install mmdet==2.28.1
 
-# Utilidades
-pip install opencv-python tqdm matplotlib
+#Resultados y experimentos.
+
 
